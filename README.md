@@ -26,4 +26,4 @@ The **Rocket Flight Path Optimizer** is a Python project that simulates the vert
 
 Install required Python libraries:
 
-```bash
+pip install numpy scipy matplotlib
